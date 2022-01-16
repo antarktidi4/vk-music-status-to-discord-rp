@@ -1,5 +1,6 @@
 ## Feature
 Translate music from status into discord rich presence.
+
 ![](https://github.com/antarktidi4/vk-music-status-to-discord-rp/blob/main/preview.jpg)
 
 ## Run command
